@@ -22,4 +22,11 @@ Mainly the libraries used to implement this project are :
 ● Keras
 </i>
 
-<b> <i> model.predict() </i> </b> gives the prediction probability of each class for that data point
+<b> <i> model.predict() </i> </b> gives the prediction probability of each class for that data point and then the <b> <i>  np.argmax() </i> </b> function is used to convert the prediction probabilities to class label.
+
+
+--> <b> <i> OUTPUT : </i> </b>
+
+The given output is :
+
+<img width="475" alt="Screenshot 2022-09-05 at 9 33 30 PM" src="https://user-images.githubusercontent.com/71970250/188486444-a14ac996-c29c-418e-8107-767e4f6ca74f.png">
