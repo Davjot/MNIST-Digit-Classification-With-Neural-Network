@@ -8,7 +8,7 @@ This dataset is directly imported from <b> <i> keras </i> </b> library <b> <i> m
 
 <i> ABOUT THE DATASET : </i>
 
-The training data has 60,000 images and 10,000 images for testing data.
+The training data has 60,000 images and 10,000 images for testing data and 28x28 pixels size.
 
 --> <b> <i> METHODOLOGY </i> </b>
 
