@@ -1,6 +1,6 @@
 # MNIST-Digit-Classification-With-Neural-Network
 
-![1*26W2Yk3cu2uz_R8BuSb_SA](https://user-images.githubusercontent.com/71970250/188484671-6da39968-e62b-40bf-adda-34aab0466361.png)
+![68747470733a2f2f6b6e6f776d2e6f72672f77702d636f6e74656e742f75706c6f6164732f53637265656e2d53686f742d323031352d30382d31342d61742d322e34342e35372d504d2e706e67](https://user-images.githubusercontent.com/71970250/188486991-22775894-effc-4f97-ac9a-97c8b981bf5c.png)
 
 --> <b> <i> DATASET </i> </b>
 
